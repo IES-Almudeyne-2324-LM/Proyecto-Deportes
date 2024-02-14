@@ -96,6 +96,15 @@ footer p {
 	border-radius: 5px;
 	text-align: center;
 }
+.VOLEIBOL {
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f2f2f2;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	text-align: center;
+}
 
 .fondoTenis {
     background-color: #ccc2c2cd;
@@ -132,7 +141,7 @@ footer p {
     margin: 0 auto;
 
     text-align: center;
-    background-color: #130449cd;
+    background-color: #719b23cd;
 }
 
 

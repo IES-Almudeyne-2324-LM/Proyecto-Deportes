@@ -12,6 +12,28 @@ body {
 	padding: 0;
 	font-family: Arial, sans-serif;
 }
+
+p {
+    text-align: center;
+  }
+
+   a {
+    text-align: center;
+  }
+
+figure {
+    text-align: center;
+}
+
+picture {
+    align-items: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+
 nav {
 	background-color: #000000;
 	padding: 10px;
@@ -66,4 +88,38 @@ footer p {
 
 .fondoTenis {
     background-color: #ccc2c2cd;
+}
+
+.fondoFutbol {
+    background-color: #a1c9a5cd;
+}
+.fondoVoleibol {
+    background-color: #5b50d0cd;
+}
+
+.estilosarticulosTENNIS {
+    width: 95%;
+
+    margin: 0 auto;
+
+    text-align: center;
+    background-color: #d3ccedcd;
+}
+
+.estilosarticulosFutbol {
+    width: 95%;
+
+    margin: 0 auto;
+
+    text-align: center;
+    background-color: #044404cd;
+}
+
+.estilosarticulosVolei {
+    width: 95%;
+
+    margin: 0 auto;
+
+    text-align: center;
+    background-color: #130449cd;
 }

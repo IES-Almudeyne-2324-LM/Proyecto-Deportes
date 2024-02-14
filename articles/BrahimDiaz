@@ -19,6 +19,7 @@
             ¿Bellingham? Brahim marca un golazo que da la vuelta al mundo 
         </h1>
     </header>
+<main>
     <p>
         Vaya obra de arte de Brahim Diaz. Puro fútbol de calle en el más profesional de los escenarios.
 
@@ -41,11 +42,70 @@
         </picture>
         <figcaption>Celebración de Gol de Brahim</figcaption>
     </figure>
-    
 
+   <table class="Champions">
+    <h2> Mejores clasificados de cada grupo de Champions</h2>
+    <tr>
+        <td> Equipo </td>
+        <td> PJ</td>
+        <td> PG</td>
+        <td> PP</td>
+        <td> PE</td>
+    </tr>
 
-    <a href="../index.html#Brahim"><img src="../icons/NuevoIcono.png" alt="Volver a inicio" width="70" style="display: block; margin: auto;"></a>
+    <tr>
+        <td> <img src="../images/escudoMadrid.png" alt="Escudo Real Madrid"> </td>
+        <td> 8 </td>
+        <td> 7 </td>
+        <td> 0 </td>
+        <td> 1 </td>
+    </tr>
+
+    <tr>
+        <td> <img src="../images/escudoCity.png" alt="Escudo Manchester City"> </td>
+        <td> 8 </td>
+        <td> 8 </td>
+        <td> 0 </td>
+        <td> 0 </td>
+    </tr>
+
+    <tr>
+        <td> <img src="../images/escudoPSG.png" alt="Escudo PSG"> </td>
+        <td> 8 </td>
+        <td> 4 </td>
+        <td> 2 </td>
+        <td> 2 </td>
+    </tr>
+
+    <tr>
+        <td> <img src="../images/escudoAjax.png" alt="Escudo AJAX"></td>
+        <td> 8 </td>
+        <td> 3 </td>
+        <td> 2 </td>
+        <td> 3 </td>
+    </tr>
+
+    <tr>
+        <td> <img src="../images/escudoBarca.png" alt="Escudo FC Barcelona"></td>
+        <td> 8 </td>
+        <td> 4 </td>
+        <td> 3 </td>
+        <td> 1 </td>
+    </tr>
+
+    <tr>
+        <td> <img src="../images/escudoBayern.png" alt="Escudo Bayern Munich"></td>
+        <td> 8 </td>
+        <td> 6 </td>
+        <td> 1 </td>
+        <td> 1 </td>
+    </tr>
+   </table> <br>
+
+   <a href="../index.html#Brahim"><img src="../icons/NuevoIcono.png" alt="Volver a inicio" width="70" style="display: block; margin: auto;"></a>
     <br>
+
+</main>   
     <footer>
         <p>
             Alumno1: Francisco José Fernández Álvarez<br>

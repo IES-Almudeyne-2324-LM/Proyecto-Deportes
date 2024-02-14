@@ -17,6 +17,7 @@
     <header>
         <h1 class="h1-color">DÍA DE MUCHO AMOR EN EL FÚTBOL POR SAN VALENTÍN</h1>
     </header>
+<main>
     <p>
         Un día especial y marcado en el calendario donde las muestras de amor y cariño no han parado de sucederse, algunas muy variopintas.
 
@@ -36,7 +37,7 @@
     </figure>
     
 
-
+</main>   
     <a href="../index.html#AmorEnFutbol"><img src="../icons/NuevoIcono.png" alt="Volver a inicio" width="70" style="display: block; margin: auto;"></a>
     <br>
     <footer>

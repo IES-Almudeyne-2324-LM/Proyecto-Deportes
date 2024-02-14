@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Noticia de Badosa">
+    <meta name="keywords" content="Amor, Futbol, Titulo">
+    <meta name="author" content="Jaime">
+    <meta name="robots" content="all">
+    <link rel="stylesheet" href="../css/styles.css">
+    <title>JPD Deportes</title>
+    <link rel ="icon" href="../icons/iconopng4.png" type="image/png" sizes="16x16">
+</head>
+
+
+<body>
+    <header>
+        <h1 class="h1-color">DÍA DE MUCHO AMOR EN EL FÚTBOL POR SAN VALENTÍN</h1>
+    </header>
+    <p>
+        Un día especial y marcado en el calendario donde las muestras de amor y cariño no han parado de sucederse, algunas muy variopintas.
+
+        Hoy es el día de los enamorados y por ende, en el mundo del fútbol el amor se manifiesta de muchas maneras. 
+        
+        La más común es cuando uno levanta un título y en este sentido, las muestras de amor que han inundado las redes son para ver una y mil veces.
+    </p>
+   
+    
+      <figure>
+        <picture>
+            <source media="(max-width: 659px)" srcset="../images/Badosa_60px.jpg">
+            <source media="(min-width: 660px)" srcset="../images/AmorFutbol.jpg">
+            <img src="../images/AmorFutbol.png" alt="AmorEnFutbol">
+        </picture>
+        <figcaption>Prueba de amor en los escenarios futbolísticos</figcaption>
+    </figure>
+    
+
+
+    <a href="../index.html#AmorEnFutbol"><img src="../icons/NuevoIcono.png" alt="Volver a inicio" width="70" style="display: block; margin: auto;"></a>
+    <br>
+    <footer>
+        <p>
+            Alumno1: Francisco José Fernández Álvarez<br>
+            Alumndo2: David García Vela<br>
+            Alumno3: Jaime Valle <br>
+            Asignatura: Lenguaje de Marcas<br>
+            Curso: 2023-2024
+        </p>
+        </footer>
+        
+</body>
+</html>

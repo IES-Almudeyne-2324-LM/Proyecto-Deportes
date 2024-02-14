@@ -19,7 +19,14 @@ p {
 
    a {
     text-align: center;
+    color:black;
+    text-decoration: none;
   }
+.LeerMas {
+    
+    color:rgb(0, 110, 255);
+    
+}
 
 figure {
     text-align: center;

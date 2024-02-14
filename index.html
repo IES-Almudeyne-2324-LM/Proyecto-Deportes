@@ -9,23 +9,43 @@
     <meta name="robots" content="all">
     <title>JPD Deportes</title>
     <link rel ="icon" href="icons/iconopng4.png" type="image/png" sizes="16x16">
+    <!-- <link rel="stylesheet" href="styles/styles.css"> -->
+    <title>JPD DEPORTES</title>
 </head>
 
-
-
-
 <body>
+
+    <header>
     <div class="JPD DEPORTES: ULTIMAS NOTICIAS"></div>
     <div>
-        <p style="text-align:center;"><img src="./icons/iconopng.png" alt="Foto del Icono" height="165" width="165"></p>
+
+        <figure style="text-align:center">      
+            <picture style="display:flex;justify-content: center;">
+            <source media="(max-width: 659px)" srcset="icons/NuevoIcono_60.png">
+            <source media="(min-width: 660px)" srcset="icons/NuevoIcono.png">
+            <img src="icons/NuevoIcono.png" alt="JPD ICONO">
+        </picture>
+         </figure>
+
         <h1 style="text-align:center">JPD DEPORTES:TUS NOTICIAS DEPORTIVAS FAVORITAS</h1>
     </div>
+</header>
+
     <div class="NoticiaModric">
         <div>
+            <a href="./articles/NoticiaModric.html" id="Modric" style="text-align: center; color:black; text-decoration: none;"></a>
             <h2 style="text-align:center"> Modric podría salir del Madrid en los últimos días de mercado a Arabia</h2>
         </div>
         <div>
-            <p style="text-align:center;"><img src="./images/Modric.jpg" alt="Foto de Luka Modric" height="490" ></p>
+            <a href="./articles/NoticiaModric.html" style="display:flex;justify-content: center;">
+                <figure style="text-align:center">      
+                   <picture style="display:flex;justify-content: center;">
+                   <source media="(max-width: 659px)" srcset="images/Modric_60px.jpg">
+                   <source media="(min-width: 660px)" srcset="images/Modric.jpg">
+                   <img src="images/Modric.jpg" alt="Modric">
+               </picture>
+                </figure>
+           </a>
         </div>
         <div>
             <p style="text-align:center"> <q>El jugador croata del Real Madrid está descontento con el club
@@ -33,6 +53,9 @@
                 apunta que su salida será a <u> Arabia </u>. <mark>Lo que esta muy claro es que Modric 
                 abandonara el conjunto blanco en verano, pero la opción de irse antes 
                 del cierre de mercado esta ahí y en estos días el croata valora esa posibilidad.</mark>
+                <a href="./articles/NoticiaModric.html" style="display:flex;justify-content: center;">
+                    Leer mas
+                </a>
             </p>
         </div>
     </div>
@@ -64,7 +87,7 @@
             </p>
         </div>
     </div>
-    <div class="NoticiaHidramar">
+    <div class="NoticiaHidramar" id="Hidramar" style="text-align: center; color:black; text-decoration: none;">
         <div>
             <a href="./articles/Voleibol.html">
             <h2 style="text-align:center">El Hidramar se lleva con comodidad la <u>Copa de la Reina</u></h2>

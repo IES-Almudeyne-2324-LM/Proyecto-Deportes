@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brahim brilla">
+    <meta name="keywords" content="Brahim, golazo, bellingham">
+    <meta name="author" content="Jaime">
+    <meta name="robots" content="all">
+    <link rel="stylesheet" href="../css/styles.css">
+    <title>JPD Deportes</title>
+    <link rel ="icon" href="../icons/iconopng4.png" type="image/png" sizes="16x16">
+</head>
+
+
+<body>
+    <header>
+        <h1 class="h1-color">
+            ¿Bellingham? Brahim marca un golazo que da la vuelta al mundo 
+        </h1>
+    </header>
+    <p>
+        Vaya obra de arte de Brahim Diaz. Puro fútbol de calle en el más profesional de los escenarios.
+
+        En el minuto 48 del suelo de Champions Leipzig ante el Leipzig, el malagueño agarró la pelota en la banda derecha y arrancó un serpenteo precioso. 
+        
+        Dejó a Raum y a dos rivales más atrás y la colocó con la zurda en la escuadra más lejana.
+    </p>
+    
+    <p>
+        Un gol que podrían haber formado grandes de este deporte como Messi 
+        
+        y ante el que se ha rendido de inmediato su compañero Jude Bellingham, ausente hoy por lesión.
+    </p>
+
+      <figure>
+        <picture>
+            <source media="(max-width: 659px)" srcset="../images/Badosa_60px.jpg">
+            <source media="(min-width: 660px)" srcset="../images/NoticiaBrahim.jpg">
+            <img src="../images/NoticiaBrahim.png" alt="Brahim">
+        </picture>
+        <figcaption>Celebración de Gol de Brahim</figcaption>
+    </figure>
+    
+
+
+    <a href="../index.html#Brahim"><img src="../icons/NuevoIcono.png" alt="Volver a inicio" width="70" style="display: block; margin: auto;"></a>
+    <br>
+    <footer>
+        <p>
+            Alumno1: Francisco José Fernández Álvarez<br>
+            Alumndo2: David García Vela<br>
+            Alumno3: Jaime Valle <br>
+            Asignatura: Lenguaje de Marcas<br>
+            Curso: 2023-2024
+        </p>
+        </footer>
+        
+</body>
+</html>
+
+

@@ -27,6 +27,16 @@
             <label for="nombre">Nombre:</label>
             <input type="text" id="nombre" name="nombre" required><br>
 
+            <label for="DNI">DNI (sin letra):</label>
+            <input type="number" id="DNI" name="DNI" required max="8"><br>
+            
+            <label for="gen">Género:</label>
+            <select id="gen" name="gen" required>
+                <option value="Masculino">Masculino</option>
+                <option value="Femenino">Femenino</option>
+                <option value="Otro">Otro</option>
+            </select><br>
+
             <label for="email">Correo electrónico:</label>
             <input type="email" id="email" name="email" required><br>
         </fieldset>
@@ -49,7 +59,11 @@
 
             <label for="direccion">Dirección:</label>
             <input type="text" id="direccion" name="direccion" required><br>
+
+            <label for="direccion">(Opcional) Piso:</label>
+            <input type="text" id="Piso" name="Piso" required><br>
         </fieldset>
+
 
         <fieldset>
             <legend>Observaciones</legend>
@@ -78,7 +92,7 @@
             <p>
                 Alumno1: Francisco José Fernández Álvarez<br>
                 Alumndo2: David García Vela<br>
-                Alumno3: Jaime Valle <br>
+                Alumno3: Jaime Román Tejero <br>
                 Asignatura: Lenguaje de Marcas<br>
                 Curso: 2023-2024
             </p>

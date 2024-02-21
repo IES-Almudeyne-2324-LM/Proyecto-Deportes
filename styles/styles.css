@@ -83,7 +83,7 @@ footer p {
 	margin: 0;
 }
 
-.NoticiaRafa {
+.Noticia {
 	width: 50%;
 	margin: 0 auto;
 	padding: 20px;
@@ -150,8 +150,38 @@ footer p {
     text-align: center;
     background-color: #f80808;
 }
-Champions {
+.Champions {
     background-color: #1a0ece;
     width: 100%;
     text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.formulario {
+    background-color: rgb(163, 65, 65);
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+fieldset {
+    margin-bottom: 20px;
+}
+
+legend {
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select, textarea {
+    width: 100%;
 }
